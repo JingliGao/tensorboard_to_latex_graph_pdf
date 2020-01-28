@@ -1,0 +1,8 @@
+1. Download csv file from Tensorboard
+2. Delete a column named Wall Time and then delete first row, which is caption
+3. Run test_plot.py, get .eps file
+4. eps file convert to pdf [https://convertio.co/eps-pdf/]
+5. Upload pdf file to overleaf
+
+------------------------------------
+My test overleaf link is: https://www.overleaf.com/4755229224rxdpbjcqdmqr
